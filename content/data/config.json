@@ -49,7 +49,7 @@
                 "no_follow": false,
                 "children": {
                     "label": "Business Law",
-                    "url": "lorem-ipsum",
+                    "url": "/",
                     "style": "link",
                     "has_icon": false,
                     "icon": "arrow-left",
