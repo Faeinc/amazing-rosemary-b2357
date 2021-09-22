@@ -790,6 +790,11 @@ models:
           - primary
           - secondary
         default: link
+      - name: children
+        type: model
+        label: Children
+        models:
+          - action
       - type: boolean
         name: has_icon
         label: Show icon
@@ -826,11 +831,6 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
-      - name: children
-        type: model
-        label: Children
-        models:
-          - action
   form_field:
     type: object
     label: Form Field
