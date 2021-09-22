@@ -826,7 +826,7 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
-      - name: Children
+      - name: children
         type: object
         fields: []
         label: childeen
