@@ -23,7 +23,7 @@ export default class Action extends React.Component {
         if (newWindow || noFollow) {
             attrs.rel = [(newWindow ? 'noopener' : '') + (noFollow ? 'nofollow' : '')].join(' ');
         }
-        console.log(hasChildren[0]);
+        console.log(hasChildren);
         return (
             <Link
                 href={withPrefix(url)}
