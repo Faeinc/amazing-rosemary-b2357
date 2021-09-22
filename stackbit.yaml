@@ -829,7 +829,8 @@ models:
       - name: children
         type: model
         label: children
-        models: []
+        models:
+          - action
   form_field:
     type: object
     label: Form Field
