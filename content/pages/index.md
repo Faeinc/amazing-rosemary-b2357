@@ -91,7 +91,7 @@ sections:
         content: >-
           I would recommend Ladislav anytime. I am very satisfied with his
           service and attention to detail.
-      - author: Jonquil Von Haggerston
+      - author: Accountant
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
