@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: We Are Here For You
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Beganyi Professional Corporation (“BPC”) Law Firm offers clients a range
+      of integrated legal services including in the areas of business,
+      corporate, commercial, real estate, land development, tax planning and
+      estate planning law.
     actions:
       - label: Learn More
         url: /features
