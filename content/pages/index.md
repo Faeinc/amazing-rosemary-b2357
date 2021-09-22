@@ -95,7 +95,7 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          “Ladislav has helped many of my clients with their legal needs. If you
+          Ladislav has helped many of my clients with their legal needs. If you
           are looking for a trustworthy, reliable, and affordable lawyer, I
           recommend that you hire Ladislav.
   - section_id: call-to-action
