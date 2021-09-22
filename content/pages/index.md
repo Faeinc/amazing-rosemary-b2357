@@ -130,7 +130,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Beganyi Professional Corporation Law Firm
     - name: 'twitter:description'
       value: The preview of the Azimuth theme
     - name: 'twitter:image'
