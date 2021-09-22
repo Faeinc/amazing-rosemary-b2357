@@ -6,11 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: We Are Here For You
-    content: >
-      Beganyi Professional Corporation Law Firm offers clients a range of
-      integrated legal services including in the areas of business, corporate,
-      commercial, real estate, land development, tax planning and estate
-      planning law.
+    content: "Founded in 2007, the Beganyi Professional Corporation Law Firm helps clients tackle modern challenges. We advise individuals, entrepreneurs, and growing and mature companies on a wide range of transactional issues. By remaining mindful of the bigger picture, we are better able to anticipate our clients’ needs and approach issues proactively to prevent problems rather than react to them. \_Our philosophy is simple: we believe in providing exceptional service coupled with pragmatic and forward-thinking legal advice. We love what we do, and we do it right. Our clients come to us for experience, solutions, creativity, service, and value. To see how we can help you, talk to us.\n"
     actions:
       - label: Learn More
         url: /features
