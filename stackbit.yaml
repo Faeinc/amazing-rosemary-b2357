@@ -828,7 +828,7 @@ models:
         description: Add rel="nofollow" attribute to the link
       - name: children
         type: reference
-        label: childeen
+        label: children
         models: []
   form_field:
     type: object
