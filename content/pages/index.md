@@ -95,8 +95,9 @@ sections:
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          “Ladislav has helped many of my clients with their legal needs. If you
+          are looking for a trustworthy, reliable, and affordable lawyer, I
+          recommend that you hire Ladislav.
   - section_id: call-to-action
     type: section_cta
     title: Get a Free 20 Minute Consultation
