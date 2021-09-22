@@ -85,7 +85,7 @@ sections:
         content: >-
           Ladislav has been a great advisor and my go to for anything legal
           related.
-      - author: Parsley Montana
+      - author: Business Client
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
