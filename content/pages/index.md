@@ -83,7 +83,7 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          “Ladislav has been a great advisor and my go to for anything legal
+          Ladislav has been a great advisor and my go to for anything legal
           related.
       - author: Parsley Montana
         avatar: images/review2.jpg
