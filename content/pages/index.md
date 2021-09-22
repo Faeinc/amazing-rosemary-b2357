@@ -118,7 +118,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Beganyi Professional Corporation Law Firm
       keyName: property
     - name: 'og:description'
       value: The preview of the Azimuth theme
