@@ -39,7 +39,6 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "/images/bpc-logo-long.webp",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "**OUR LOCATION**\n\n102-2680 Matheson Boulevard East, Mississauga, ON, L4W 0A5\n\n**TEL:** 647-977-7749\n\n**FAX:** 1-888-470-5151\n"
