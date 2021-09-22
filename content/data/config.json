@@ -38,23 +38,6 @@
     "footer": {
         "sections": [
             {
-                "type": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
-                "form_id": "subscribeForm",
-                "hide_labels": true,
-                "form_fields": [
-                    {
-                        "input_type": "email",
-                        "name": "email",
-                        "label": "Email",
-                        "default_value": "Enter email address",
-                        "is_required": true
-                    }
-                ],
-                "submit_label": "Subscribe"
-            },
-            {
                 "image_alt": "lorem-ipsum",
                 "image_url": "lorem-ipsum",
                 "title": "lorem-ipsum",
