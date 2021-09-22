@@ -827,9 +827,8 @@ models:
         default: false
         description: Add rel="nofollow" attribute to the link
       - name: Parent
-        type: list
-        items:
-          type: string
+        type: object
+        fields: []
   form_field:
     type: object
     label: Form Field
