@@ -46,7 +46,37 @@
                 "icon": "arrow-left",
                 "icon_position": "left",
                 "new_window": false,
-                "no_follow": false
+                "no_follow": false,
+                "children": {
+                    "label": "lorem-ipsum",
+                    "url": "lorem-ipsum",
+                    "style": "link",
+                    "has_icon": false,
+                    "icon": "arrow-left",
+                    "icon_position": "left",
+                    "new_window": false,
+                    "no_follow": false,
+                    "children": {
+                        "label": "lorem-ipsum",
+                        "url": "lorem-ipsum",
+                        "style": "link",
+                        "has_icon": false,
+                        "icon": "arrow-left",
+                        "icon_position": "left",
+                        "new_window": false,
+                        "no_follow": false,
+                        "children": {
+                            "label": "lorem-ipsum",
+                            "url": "lorem-ipsum",
+                            "style": "link",
+                            "has_icon": false,
+                            "icon": "arrow-left",
+                            "icon_position": "left",
+                            "new_window": false,
+                            "no_follow": false
+                        }
+                    }
+                }
             },
             {
                 "label": "Features",
