@@ -7,10 +7,10 @@ sections:
     image_alt: App preview
     title: We Are Here For You
     content: >
-      Beganyi Professional Corporation (“BPC”) Law Firm offers clients a range
-      of integrated legal services including in the areas of business,
-      corporate, commercial, real estate, land development, tax planning and
-      estate planning law.
+      Beganyi Professional Corporation Law Firm offers clients a range of
+      integrated legal services including in the areas of business, corporate,
+      commercial, real estate, land development, tax planning and estate
+      planning law.
     actions:
       - label: Learn More
         url: /features
