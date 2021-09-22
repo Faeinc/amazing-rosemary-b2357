@@ -79,11 +79,6 @@
                     }
                 ],
                 "submit_label": "Subscribe"
-            },
-            {
-                "title": "Quick Links",
-                "nav_links": [],
-                "type": "footer_nav"
             }
         ],
         "has_nav": true,
