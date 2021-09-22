@@ -89,7 +89,7 @@ sections:
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          “I would recommend Ladislav anytime. I am very satisfied with his
+          I would recommend Ladislav anytime. I am very satisfied with his
           service and attention to detail.
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
