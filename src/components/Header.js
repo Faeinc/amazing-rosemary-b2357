@@ -93,7 +93,7 @@ export default class Header extends React.Component {
         const pageUrl = _.trim(getPageUrl(page), '/');
 
         return (
-            <header className="site-header outer">
+            <header id="masthead" className="site-header outer">
                 <div className="inner">
                     <div className="site-header-inside">
                         <div className="site-branding">
