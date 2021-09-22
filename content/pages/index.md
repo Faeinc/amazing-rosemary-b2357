@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: /images/technology-in-business-5CJCEG9.jpg
     image_alt: App preview
     title: We Are Here For You
     content: "Founded in 2007, the Beganyi Professional Corporation Law Firm helps clients tackle modern challenges. We advise individuals, entrepreneurs, and growing and mature companies on a wide range of transactional issues. By remaining mindful of the bigger picture, we are better able to anticipate our clients’ needs and approach issues proactively to prevent problems rather than react to them. \_Our philosophy is simple: we believe in providing exceptional service coupled with pragmatic and forward-thinking legal advice. We love what we do, and we do it right. Our clients come to us for experience, solutions, creativity, service, and value. To see how we can help you, talk to us.\n"
