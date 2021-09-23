@@ -110,7 +110,7 @@ sections:
           of the law.
         image_alt: lorem-ipsum
         actions: []
-      - title: lorem-ipsum
+      - title: Wills & Estate Planning
         content: >-
           ## Lorem ipsum
 
