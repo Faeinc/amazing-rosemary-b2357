@@ -19,7 +19,7 @@
   display: none;
 }
 .menu-item:hover > ul,
-.menu-item sub-menu:hover {
+.menu-item .sub-menu:hover {
   visibility: visible;
   opacity: 1;
   display: block;
