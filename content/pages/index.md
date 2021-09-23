@@ -95,7 +95,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: lorem-ipsum
+  - section_id: call-to-action-2
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
