@@ -57,6 +57,7 @@ export default class Header extends React.Component {
                             {_.map(navLinks, (action, actionIdx) => {
                                 const actionUrl = _.trim(_.get(action, 'url'), '/');
                                 const actionStyle = _.get(action, 'style', 'link');
+                                const child
                                 return (
                                     <li
                                         key={actionIdx}
