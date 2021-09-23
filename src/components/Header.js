@@ -84,7 +84,7 @@ export default class Header extends React.Component {
                                             'current-menu-item': pageUrl === actionUrl,
                                             'menu-button': actionStyle !== 'link'
                                         })}
-                                    aria-haspopup='true' aria-expanded='false'>
+                                        aria-haspopup='true' aria-expanded='false'>
                                        
                                     <a href='#' aria-haspopup="true" aria-expanded="false">
                                         {label}
