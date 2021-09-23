@@ -927,5 +927,5 @@ models:
     type: object
     label: ChildAction
     fields:
-      - name: ''
+      - name: Label
         type: string
