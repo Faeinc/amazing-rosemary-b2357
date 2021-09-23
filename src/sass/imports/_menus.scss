@@ -10,6 +10,5 @@
   color: $gray-400;
 }
 .menu-item .menu-item-submenu ul {
-    nav > ul li       ul { display: none; }
-nav > ul li:hover ul { display: block;}
+   display: none;
 }
