@@ -76,9 +76,7 @@ export default class Header extends React.Component {
                                 //submenu present
                                 else{
                                 return (
-                                    <li>
-                                        
-                                    </li>
+                                   
                                     <li
                                         key={actionIdx}
                                         className={classNames('menu-item', {
