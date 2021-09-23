@@ -14,18 +14,17 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Practice Areas
     features:
-      - title: The Best Feature of Your Services
+      - title: Business Law
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Whether you're an established or growing business, our firm can assist
+          you with your legal needs. We provide services in the areas of
+          contract drafting, contract review, incorporations, amalgamations, and
+          other areas relating to starting a new business, running an existing
+          business or reorganizing a business. 
         actions:
           - label: Learn More
             url: /features
@@ -33,7 +32,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: Commercial Real Estate
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
@@ -47,7 +46,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Mergers & Acquisitions
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
@@ -61,13 +60,24 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
   - section_id: reviews
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
     reviews:
       - author: Business Client
         avatar: images/review1.jpg
@@ -91,7 +101,6 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Get a Free 20 Minute Consultation
-    subtitle: This is an optional description for the call to action block.
     actions:
       - label: Book Now
         url: /signup

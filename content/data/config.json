@@ -36,10 +36,20 @@
                 "icon": "arrow-left",
                 "icon_position": "left",
                 "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Practice Areas",
+                "url": "/",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
                 "no_follow": false,
                 "children": {
-                    "label": "lorem-ipsum",
-                    "url": "lorem-ipsum",
+                    "label": "Business Law",
+                    "url": "business-law",
                     "style": "link",
                     "has_icon": false,
                     "icon": "arrow-left",
@@ -67,16 +77,6 @@
                         }
                     }
                 }
-            },
-            {
-                "label": "Practice Areas",
-                "url": "/",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "left",
-                "new_window": false,
-                "no_follow": false
             },
             {
                 "label": "Features",
