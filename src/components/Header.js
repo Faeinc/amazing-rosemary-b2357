@@ -58,7 +58,7 @@ export default class Header extends React.Component {
                                 const actionUrl = _.trim(_.get(action, 'url'), '/');
                                 const actionStyle = _.get(action, 'style', 'link');
                                 const children = _.get(action, 'ChildAction')
-                                const label = _.get(action, )
+                                const label = _.get(action, 'label');
                                 //no submenu
                                 if (children == null){
                                     return (
