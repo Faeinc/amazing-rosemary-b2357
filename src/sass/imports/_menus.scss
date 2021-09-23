@@ -18,7 +18,7 @@
   left: 0;
   display: none;
 }
-ul li:hover > ul,
+.menu-item:hover > ul,
 ul li ul:hover {
   visibility: visible;
   opacity: 1;
