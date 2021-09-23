@@ -930,3 +930,5 @@ models:
       - name: Label
         type: string
         label: Label
+      - name: ''
+        type: string
