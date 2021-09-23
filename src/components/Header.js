@@ -85,7 +85,7 @@ export default class Header extends React.Component {
                                             'menu-button': actionStyle !== 'link'
                                         })}
                                     aria-haspopup='true' aria-expanded='false'>
-                                        <li class="has-submenu">
+                                       
 						<a href="…" aria-haspopup="true" aria-expanded="false">
 							Space Bears
 						</a>
