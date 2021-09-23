@@ -18,3 +18,9 @@
   left: 0;
   display: none;
 }
+ul li:hover > ul,
+ul li ul:hover {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
