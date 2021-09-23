@@ -20,7 +20,7 @@ export default class Action extends React.Component {
         if (childAction !=null){
             console.log(label);
         }
-        console.log(childAction)
+        console.log(childAction);
         const attrs = {};
         if (newWindow) {
             attrs.target = '_blank';
