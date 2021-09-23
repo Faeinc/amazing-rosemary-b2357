@@ -61,7 +61,7 @@ export default class Header extends React.Component {
                                 return (
                                     if (children ==null){
                                         
-                                    }
+                                    };
                                     <li
                                         key={actionIdx}
                                         className={classNames('menu-item', {
