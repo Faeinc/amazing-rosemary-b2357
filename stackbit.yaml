@@ -926,3 +926,6 @@ models:
   childaction:
     type: object
     label: ChildAction
+    fields:
+      - name: ''
+        type: string
