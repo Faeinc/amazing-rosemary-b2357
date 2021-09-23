@@ -84,7 +84,7 @@ export default class Header extends React.Component {
                                             'menu-button': actionStyle !== 'link'
                                         })}
                                     >
-                                      <span></span>
+                                      <span>action.</span>
                                     </li>
                                 );
                                 }
