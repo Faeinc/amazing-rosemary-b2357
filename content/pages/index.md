@@ -27,7 +27,7 @@ sections:
           business or reorganizing a business. 
         actions:
           - label: Learn More
-            url: /practice-areas/business-law/
+            url: /practice-areas/business-law
             style: secondary
             has_icon: true
             icon: arrow-right
