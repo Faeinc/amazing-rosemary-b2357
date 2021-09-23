@@ -83,7 +83,7 @@ export default class Header extends React.Component {
                                         className={classNames('menu-item-submenu', {
                                             'current-menu-item': pageUrl === actionUrl,
                                             'menu-button': actionStyle !== 'link'
-                                            aria-haspopup='true' aria-expanded='false"
+                                            aria-haspopup='true' aria-expanded='false'
                                         })}
                                     >
                                         <li class="has-submenu">
