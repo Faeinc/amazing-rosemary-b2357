@@ -110,6 +110,7 @@ sections:
           of the law.
         image_alt: lorem-ipsum
         actions: []
+        image: /images/1.jpg
       - title: Wills & Estate Planning
         content: >
           When you hire us, we take the time to outline and plan your will with
