@@ -1,5 +1,5 @@
 ---
-title: Beganyi Professional Corpration | Home
+title: Beganyi Professional Corporation| Home
 sections:
   - section_id: hero
     type: section_hero
