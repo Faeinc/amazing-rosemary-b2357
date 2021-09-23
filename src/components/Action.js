@@ -15,7 +15,7 @@ export default class Action extends React.Component {
         const actionIconPos = _.get(action, 'icon_position', 'left');
         const newWindow = _.get(action, 'new_window');
         const noFollow = _.get(action, 'no_follow');
-        const childAction = _.get(action, 'childAction');
+        const childAction = _.get(action, 'ChildAction');
 
         if (childAction !=null){
             console.log(label);
