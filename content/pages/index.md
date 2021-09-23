@@ -98,7 +98,7 @@ sections:
   - section_id: call-to-action-2
     title: Get a Free 20 Minute Consultation
     actions:
-      - label: Get A Free 20 Minute Consiltation
+      - label: Book Now
         url: '#'
         style: primary
         has_icon: false
