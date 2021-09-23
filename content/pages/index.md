@@ -126,7 +126,6 @@ sections:
     background: gray
     title: Latest Posts
   - section_id: feature-2
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
     features: []
