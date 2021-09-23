@@ -94,7 +94,7 @@ export default class Header extends React.Component {
                                             <li><a href="…">Space Bear 6 Plus</a></li>
                                     </ul>
 				</li>
-                                      <span>{label}</span>
+                                      <span></span>
                                       <ul class="sub-menu">                                        
                                     
                                         <li class="sub-menu-content"><a href="#">Bring</a></li>
