@@ -26,7 +26,7 @@ export default class Action extends React.Component {
         }
         console.log(hasChildren[0].Action);
 
-        }
+        
         return (
             <Link
                 href={withPrefix(url)}
