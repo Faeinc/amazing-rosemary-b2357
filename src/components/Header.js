@@ -60,6 +60,8 @@ export default class Header extends React.Component {
                                 const children = _.get(action, 'ChildAction')
                                 return (
                                     if (children ==null){
+                                        
+                                    }
                                     <li
                                         key={actionIdx}
                                         className={classNames('menu-item', {
@@ -69,8 +71,6 @@ export default class Header extends React.Component {
                                     >
                                         <Action action={action} />
                                     </li>
-                                    }
-                                    
                                 );
                             })}
                         </ul>
