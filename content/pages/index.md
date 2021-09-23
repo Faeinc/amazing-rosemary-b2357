@@ -16,7 +16,7 @@ sections:
     background: gray
     title: Practice Areas
     features:
-      - title: The Best Feature of Your Services
+      - title: Business Law
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
