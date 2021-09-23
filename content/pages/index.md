@@ -125,7 +125,6 @@ sections:
             new_window: false
             no_follow: false
     type: section_cta
-    subtitle: Book Now
 seo:
   title: Beganyi Professional Corporation Law Firm
   description: The preview of the Azimuth theme
