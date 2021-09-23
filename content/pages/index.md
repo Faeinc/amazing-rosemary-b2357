@@ -60,6 +60,36 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+  - section_id: call-to-action-2
+    title: Get a Free 20 Minute Consultation
+    actions:
+      - label: Book Now
+        url: '#'
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        children:
+          label: lorem-ipsum
+          url: lorem-ipsum
+          style: link
+          has_icon: false
+          icon: arrow-left
+          icon_position: left
+          new_window: false
+          no_follow: false
+          children:
+            label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+    type: section_cta
   - section_id: reviews
     type: section_reviews
     background: white
