@@ -18,7 +18,7 @@ export default class Action extends React.Component {
         const hasChildren = _.get(action, 'children', []);
         
         if (!isNullOrUndefined(hasChildren)){
-            console.log()
+            console.log(label);
         }
 
         const attrs = {};
