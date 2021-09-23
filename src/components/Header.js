@@ -86,7 +86,7 @@ export default class Header extends React.Component {
                                         })}
                                     >
                                       <span>{label}</span>
-                                      <ul class="dropdown-content">
+                                      <ul>
                                           <li>Menu 1</li>
                                       </ul>
                                     </li>
