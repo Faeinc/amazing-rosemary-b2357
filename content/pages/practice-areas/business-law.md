@@ -11,6 +11,10 @@ seo:
       value: Business Law
       keyName: property
       relativeUrl: true
+    - name: 'twitter:title'
+      value: Business Law
+      keyName: name
+      relativeUrl: false
 layout: page
 ---
 ## Lorem ipsum
