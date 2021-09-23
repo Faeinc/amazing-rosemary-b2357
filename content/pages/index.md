@@ -103,17 +103,11 @@ sections:
         actions: []
         image: /images/7.jpg
       - title: Tax Planning
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Taxes are a fact of life. While we all have to pay taxes, we can work
+          with you to organize your financial affairs in such a way so as to
+          minimize your taxes whenever and however possible within the confines
+          of the law.
         image_alt: lorem-ipsum
         actions: []
     type: section_features
