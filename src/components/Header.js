@@ -59,7 +59,9 @@ export default class Header extends React.Component {
                                 const actionStyle = _.get(action, 'style', 'link');
                                 const children = _.get(action, 'ChildAction')
                                 return (
-                                    if ()
+                                    if (children ==null){
+                                        
+                                    }
                                     <li
                                         key={actionIdx}
                                         className={classNames('menu-item', {
