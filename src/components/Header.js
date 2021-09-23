@@ -86,7 +86,7 @@ export default class Header extends React.Component {
                                         })}
                                     >
                                       <span>{label}</span>
-                                      <ul class="subm">
+                                      <ul class="sub-menu">
                                         
                                         <div class="subnav-content">
                                         <a href="#bring">Bring</a>
