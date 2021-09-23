@@ -929,3 +929,4 @@ models:
     fields:
       - name: Label
         type: string
+        label: Label
