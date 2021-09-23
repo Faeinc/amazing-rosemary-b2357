@@ -86,7 +86,7 @@ export default class Header extends React.Component {
                                         })}
                                     >
                                       
-                                      <div class="subnav">
+                                      <ul class="subnav">
                                         <button class="subnavbtn"><span>{label}</span> <i class="fa fa-caret-down"></i></button>
                                         <div class="subnav-content">
                                         <a href="#bring">Bring</a>
