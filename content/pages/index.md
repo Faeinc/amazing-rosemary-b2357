@@ -116,6 +116,7 @@ sections:
           you, ensuring that your loved ones and your estate are taken care of.
         image_alt: lorem-ipsum
         actions: []
+        image: /images/12_thumb.jpg
     type: section_features
   - section_id: call-to-action
     type: section_cta
