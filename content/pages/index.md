@@ -99,7 +99,7 @@ sections:
     title: Get a Free 20 Minute Consultation
     actions:
       - label: Get A Free 20 Minute Consiltation
-        url: lorem-ipsum
+        url: '#'
         style: link
         has_icon: false
         icon: arrow-left
