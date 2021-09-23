@@ -90,6 +90,19 @@ sections:
             new_window: false
             no_follow: false
     type: section_cta
+  - section_id: feature-2
+    background: gray
+    features:
+      - title: Residential Real Estate
+        content: >
+          Whether you are a first time home buyer or an experienced residential
+          real estate investor, we can assist you with closing your residential
+          purchase, sale and refinance transactions. We represent individuals
+          and families in all kinds of real estate matters.
+        image_alt: lorem-ipsum
+        actions: []
+        image: /images/7.jpg
+    type: section_features
   - section_id: reviews
     type: section_reviews
     background: white
@@ -125,19 +138,6 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: feature-2
-    background: gray
-    features:
-      - title: Residential Real Estate
-        content: >
-          Whether you are a first time home buyer or an experienced residential
-          real estate investor, we can assist you with closing your residential
-          purchase, sale and refinance transactions. We represent individuals
-          and families in all kinds of real estate matters.
-        image_alt: lorem-ipsum
-        actions: []
-        image: /images/7.jpg
-    type: section_features
 seo:
   title: Beganyi Professional Corporation Law Firm
   description: The preview of the Azimuth theme
