@@ -17,7 +17,7 @@ export default class Action extends React.Component {
         const noFollow = _.get(action, 'no_follow');
         const hasChildren = _.get(action, 'children');
         const childrenAction = _.get(hasChildren, 'action');
-        if (childrenAction.le)
+        if (childrenAction)
         const attrs = {};
         if (newWindow) {
             attrs.target = '_blank';
