@@ -87,14 +87,14 @@ export default class Header extends React.Component {
                                     >
                                       
                                       <div class="subnav">
-    <button class="subnavbtn"><span>{label}</span> <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="#bring">Bring</a>
-      <a href="#deliver">Deliver</a>
-      <a href="#package">Package</a>
-      <a href="#express">Express</a>
-    </div>
-  </div>
+                                        <button class="subnavbtn"><span>{label}</span> <i class="fa fa-caret-down"></i></button>
+                                        <div class="subnav-content">
+                                        <a href="#bring">Bring</a>
+                                        <a href="#deliver">Deliver</a>
+                                        <a href="#package">Package</a>
+                                        <a href="#express">Express</a>
+                                        </div>
+                                    </div>
                                     </li>
                                 );
                                 }
