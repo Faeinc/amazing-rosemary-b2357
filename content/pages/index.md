@@ -95,6 +95,11 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: Beganyi Professional Corporation Law Firm
   description: The preview of the Azimuth theme
