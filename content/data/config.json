@@ -76,6 +76,10 @@
                             "no_follow": false
                         }
                     }
+                },
+                "ChildAction": {
+                    "Label": "lorem-ipsum",
+                    "URL": "lorem-ipsum"
                 }
             },
             {
