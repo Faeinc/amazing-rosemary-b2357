@@ -86,7 +86,7 @@ export default class Header extends React.Component {
                                         })}
                                     >
                                       <span>{label}</span>
-                                      <ul>
+                                      <ul class="sub-menu">
                                           <li>Menu 1</li>
                                       </ul>
                                     </li>
