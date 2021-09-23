@@ -80,7 +80,7 @@ export default class Header extends React.Component {
                                    
                                     <li
                                         key={actionIdx}
-                                        className={classNames('menu-item-submenu', {
+                                        className={classNames('menu-item menu-item-submenu', {
                                             'current-menu-item': pageUrl === actionUrl,
                                             'menu-button': actionStyle !== 'link'
                                         })}
