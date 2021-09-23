@@ -18,7 +18,7 @@
   left: 0;
   display: none;
 }
-.menu-item:hover > ul,
+.menu-item:hover > .sub-menu,
 .menu-item .sub-menu:hover {
   visibility: visible;
   opacity: 1;
