@@ -9,24 +9,3 @@
   line-height: 1.5;
   color: $gray-400;
 }
-.menu-item .sub-menu{
-    float: left;
-    overflow: hidden;
-    display: none;
-}
-.menu-item .sub-menu-content a {
-  float: left;
-  color: white;
-  text-decoration: none;
-}
-
-/* Add a grey background color on hover */
-.menu-item .sub-menu-content a:hover {
-  background-color: #eee;
-  color: black;
-}
-
-/* When you move the mouse over the subnav container, open the subnav content */
-.menu-item .sub-menu:hover .sub-menu-content {
-  display: block;
-}
