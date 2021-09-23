@@ -86,7 +86,7 @@ export default class Header extends React.Component {
                                         })}
                                     aria-haspopup='true' aria-expanded='false'>
                                        
-                                    <a href='' aria-haspopup="true" aria-expanded="false">
+                                    <a href='#' aria-haspopup="true" aria-expanded="false">
                                         Space Bears
                                     </a>
 						<ul>
