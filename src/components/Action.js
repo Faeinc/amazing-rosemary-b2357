@@ -24,7 +24,7 @@ export default class Action extends React.Component {
         if (newWindow || noFollow) {
             attrs.rel = [(newWindow ? 'noopener' : '') + (noFollow ? 'nofollow' : '')].join(' ');
         }
-        console.log(hasChildren.Action);
+        console.log(hasChildren.);
 
         
         return (
