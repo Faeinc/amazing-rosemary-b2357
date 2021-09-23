@@ -89,10 +89,10 @@ export default class Header extends React.Component {
                                     <a href='#' aria-haspopup="true" aria-expanded="false">
                                         Space Bears
                                     </a>
-						<ul>
-								<li><a href="…">Space Bear 6</a></li>
-								<li><a href="…">Space Bear 6 Plus</a></li>
-						</ul>
+                                    <ul>
+                                            <li><a href="…">Space Bear 6</a></li>
+                                            <li><a href="…">Space Bear 6 Plus</a></li>
+                                    </ul>
 				</li>
                                       <span>{label}</span>
                                       <ul class="sub-menu">                                        
