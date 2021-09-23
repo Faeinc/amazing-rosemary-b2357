@@ -790,10 +790,6 @@ models:
           - primary
           - secondary
         default: link
-      - name: children
-        type: model
-        label: Children
-        models: []
       - type: boolean
         name: has_icon
         label: Show icon
