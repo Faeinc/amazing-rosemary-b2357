@@ -90,7 +90,7 @@ export default class Header extends React.Component {
                                         
                                         <div class="sub-menu-content">
                                            
-                                        <li></li><a href="#bring">Bring</a>
+                                        <li><a href="#bring">Bring</a></li>
                                         <a href="#deliver">Deliver</a>
                                         <a href="#package">Package</a>
                                         <a href="#express">Express</a>
