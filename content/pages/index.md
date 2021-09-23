@@ -129,17 +129,11 @@ sections:
     background: gray
     features:
       - title: Residential Real Estate
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Whether you are a first time home buyer or an experienced residential
+          real estate investor, we can assist you with closing your residential
+          purchase, sale and refinance transactions. We represent individuals
+          and families in all kinds of real estate matters.
         image_alt: lorem-ipsum
         actions: []
         image: /images/7.jpg
