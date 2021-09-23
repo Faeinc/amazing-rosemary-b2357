@@ -128,7 +128,7 @@ sections:
   - section_id: feature-2
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Residential Real Estate
         content: >-
           ## Lorem ipsum
 
