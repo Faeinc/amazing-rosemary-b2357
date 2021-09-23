@@ -103,6 +103,13 @@ sections:
         actions: []
         image: /images/7.jpg
     type: section_features
+  - section_id: call-to-action
+    type: section_cta
+    title: Get a Free 20 Minute Consultation
+    actions:
+      - label: Book Now
+        url: /signup
+        style: primary
   - section_id: reviews
     type: section_reviews
     background: white
@@ -127,13 +134,6 @@ sections:
           Ladislav has helped many of my clients with their legal needs. If you
           are looking for a trustworthy, reliable, and affordable lawyer, I
           recommend that you hire Ladislav.
-  - section_id: call-to-action
-    type: section_cta
-    title: Get a Free 20 Minute Consultation
-    actions:
-      - label: Book Now
-        url: /signup
-        style: primary
   - section_id: recent-posts
     type: section_posts
     background: gray
