@@ -142,6 +142,7 @@ sections:
           - dolor sit amet
         image_alt: lorem-ipsum
         actions: []
+        image: /images/7.jpg
     type: section_features
 seo:
   title: Beganyi Professional Corporation Law Firm
