@@ -102,7 +102,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         image: /images/7.jpg
-      - title: lorem-ipsum
+      - title: Tax Planning
         content: >-
           ## Lorem ipsum
 
