@@ -86,6 +86,7 @@ export default class Header extends React.Component {
                                         })}
                                     >
                                       <span>{label}</span>
+                                      
                                     </li>
                                 );
                                 }
