@@ -923,3 +923,6 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  childaction:
+    type: object
+    label: childaction
