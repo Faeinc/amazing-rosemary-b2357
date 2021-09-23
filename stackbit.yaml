@@ -930,5 +930,6 @@ models:
       - name: Label
         type: string
         label: Label
-      - name: ''
+      - name: URL
         type: string
+        label: URL
