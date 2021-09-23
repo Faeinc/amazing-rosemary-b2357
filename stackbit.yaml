@@ -830,6 +830,7 @@ models:
         type: model
         models:
           - childaction
+        label: ChildAction
   form_field:
     type: object
     label: Form Field
