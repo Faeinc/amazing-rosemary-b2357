@@ -19,10 +19,12 @@ sections:
       - title: Business Law
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Whether you're an established or growing business, our firm can assist
+          you with your legal needs. We provide services in the areas of
+          contract drafting, contract review, incorporations, amalgamations, and
+          other areas relating to starting a new business, running an existing
+          business or reorganizing a business. 
         actions:
           - label: Learn More
             url: /features
