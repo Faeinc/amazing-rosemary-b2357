@@ -85,7 +85,7 @@ export default class Header extends React.Component {
                                             'menu-button': actionStyle !== 'link'
                                         })}
                                     >
-                                      <span class="subnavbtn">{label}</span>
+                                      <span>{label}</span>
                                       <ul class="subnav">
                                         
                                         <div class="subnav-content">
