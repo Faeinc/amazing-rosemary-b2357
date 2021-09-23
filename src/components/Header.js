@@ -94,7 +94,7 @@ export default class Header extends React.Component {
                                         <a href="#package">Package</a>
                                         <a href="#express">Express</a>
                                         </div>
-                                    </div>
+                                    </ul>
                                     </li>
                                 );
                                 }
