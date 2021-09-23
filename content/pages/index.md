@@ -111,17 +111,9 @@ sections:
         image_alt: lorem-ipsum
         actions: []
       - title: Wills & Estate Planning
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          When you hire us, we take the time to outline and plan your will with
+          you, ensuring that your loved ones and your estate are taken care of.
         image_alt: lorem-ipsum
         actions: []
     type: section_features
