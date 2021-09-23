@@ -96,7 +96,7 @@ sections:
     background: gray
     title: Latest Posts
   - section_id: call-to-action-2
-    title: lorem-ipsum
+    title: Get a Free 20 Minute Consultation
     subtitle: lorem-ipsum
     actions: []
     type: section_cta
