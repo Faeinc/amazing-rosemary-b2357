@@ -793,8 +793,7 @@ models:
       - name: children
         type: model
         label: Children
-        models:
-          - action
+        models: []
       - type: boolean
         name: has_icon
         label: Show icon
