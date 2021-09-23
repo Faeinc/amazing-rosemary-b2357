@@ -24,3 +24,7 @@
   opacity: 1;
   display: block;
 }
+ul li ul li {
+  clear: both;
+  width: 100%;
+}
