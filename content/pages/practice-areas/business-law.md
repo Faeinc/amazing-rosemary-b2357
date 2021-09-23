@@ -6,7 +6,11 @@ seo:
   title: Business Law
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: Business Law
+      keyName: property
+      relativeUrl: true
 layout: page
 ---
 ## Lorem ipsum
