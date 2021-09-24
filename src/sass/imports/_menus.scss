@@ -19,7 +19,7 @@
 .menu-item:hover ul{
     display: block;
 }
-.menu-item ul li{
+.menu-item:hover ul li{
     position: absolute;
     display: block;
     left: 0;
