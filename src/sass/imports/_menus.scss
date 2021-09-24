@@ -10,11 +10,8 @@
   color: $gray-400;
 }
 .menu-item ul {
-   display: none;
-   position: absolute;
-   left: 0;
-  width: 100%;
-  z-index: 1;
+  left: 0 !Important;
+    right: 0 !Important;
 }
 .menu-item:hover ul{
     display: block;
