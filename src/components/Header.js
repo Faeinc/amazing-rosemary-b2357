@@ -60,7 +60,7 @@ export default class Header extends React.Component {
                                 const children = _.get(action, 'ChildAction')
                                 const label = _.get(action, 'label');
                                 //no submenu
-                               return (
+                                return (
                                     
                                     <li
                                         key={actionIdx}
