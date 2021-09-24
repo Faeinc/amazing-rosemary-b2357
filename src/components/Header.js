@@ -58,7 +58,6 @@ export default class Header extends React.Component {
                                 const actionUrl = _.trim(_.get(action, 'url'), '/');
                                 const actionStyle = _.get(action, 'style', 'link');
                                 
-                                //no submenu
                                 return (
                                     
                                     <li
