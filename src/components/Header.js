@@ -57,9 +57,7 @@ export default class Header extends React.Component {
                             {_.map(navLinks, (action, actionIdx) => {
                                 const actionUrl = _.trim(_.get(action, 'url'), '/');
                                 const actionStyle = _.get(action, 'style', 'link');
-                                
                                 return (
-                                    
                                     <li
                                         key={actionIdx}
                                         className={classNames('menu-item', {
@@ -70,7 +68,6 @@ export default class Header extends React.Component {
                                         <Action action={action} />
                                     </li>
                                 );
-                               
                             })}
                         </ul>
                     </div>
