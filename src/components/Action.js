@@ -15,7 +15,6 @@ export default class Action extends React.Component {
         const actionIconPos = _.get(action, 'icon_position', 'left');
         const newWindow = _.get(action, 'new_window');
         const noFollow = _.get(action, 'no_follow');
-       
         const attrs = {};
         if (newWindow) {
             attrs.target = '_blank';
@@ -23,9 +22,7 @@ export default class Action extends React.Component {
         if (newWindow || noFollow) {
             attrs.rel = [(newWindow ? 'noopener' : '') + (noFollow ? 'nofollow' : '')].join(' ');
         }
-        
 
-        
         return (
             <Link
                 href={withPrefix(url)}
