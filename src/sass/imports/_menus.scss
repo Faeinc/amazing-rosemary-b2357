@@ -15,7 +15,7 @@
 }
 
 .menu-item ul > li{
-    display: block;
+    float: left !Important;
 }
 .menu-item:hover ul li{
     position: absolute;
