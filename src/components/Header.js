@@ -86,7 +86,7 @@ export default class Header extends React.Component {
                                         })}
                                         aria-haspopup='true' aria-expanded='false'>
                                        
-                                        <span></span>
+                                        <span>
                                             {label}
                                         </a>
                                     <ul>
