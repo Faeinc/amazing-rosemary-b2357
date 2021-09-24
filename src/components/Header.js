@@ -75,14 +75,7 @@ export default class Header extends React.Component {
                                 );
                                 }
                                 //submenu present
-                                else{
-                                return (
-                                   
-                                   
-                                      
-                                );
-                                }
-                                
+                               
                             })}
                         </ul>
                     </div>
