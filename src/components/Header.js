@@ -78,22 +78,7 @@ export default class Header extends React.Component {
                                 else{
                                 return (
                                    
-                                    <li
-                                        key={actionIdx}
-                                        className={classNames('menu-item', {
-                                            'current-menu-item': pageUrl === actionUrl,
-                                            'menu-button': actionStyle !== 'link'
-                                        })}
-                                        aria-haspopup='true' aria-expanded='false'>
-                                       
-                                        <span>
-                                            {label}
-                                        </span>
-                                    <ul>
-                                            <li><a href="…">Space Bear 6</a></li>
-                                            <li><a href="…">Space Bear 777 Plus</a></li>
-                                    </ul>
-				                    </li>
+                                   
                                       
                                 );
                                 }
