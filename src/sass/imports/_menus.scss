@@ -17,10 +17,3 @@
 .menu-item ul > li{
     float: left !Important;
 }
-.menu-item:hover ul li{
-    position: absolute;
-    display: block;
-    left: 0;
-     width: 100%;
-    z-index: 1;
-}
