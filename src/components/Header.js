@@ -88,7 +88,7 @@ export default class Header extends React.Component {
                                        
                                         <span>
                                             {label}
-                                        </a>
+                                        </span>
                                     <ul>
                                             <li><a href="…">Space Bear 6</a></li>
                                             <li><a href="…">Space Bear 777 Plus</a></li>
