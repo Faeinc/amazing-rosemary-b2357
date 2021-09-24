@@ -6,6 +6,7 @@ import Icon from './Icon';
 
 export default class Action extends React.Component {
     render() {
+        
         const action = _.get(this.props, 'action');
         const url = _.get(action, 'url');
         const label = _.get(action, 'label');
